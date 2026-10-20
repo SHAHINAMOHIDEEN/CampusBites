@@ -25,3 +25,6 @@ The Power BI dashboard file ("Project(final).pbix") is available in this reposit
 
 # Conclusion
 This project demonstrates the use of Power BI to transform sales data into meaningful visual insights that support data-driven decision-making.
+
+# Dashboard - Preview
+![Campus Bites Dashboard](CampusBites-Dashboard.png)
